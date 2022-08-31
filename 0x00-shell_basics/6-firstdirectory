@@ -1,2 +1,3 @@
-#!/bin/bash
-ls -na
+tmp
+my_first_directory
+directory
